@@ -1,4 +1,11 @@
 # 2006-TCE1-CodeCrafters
+## Intro:
+We have found ourselves bombarded with countless online recommendations for places to visit, only to end up repeatedly choosing the same familiar spots or relying on suggestions from our family and friends.
+Although we often have specific categories of places in mind that we’d like to explore, our knowledge of new and exciting destinations is often limited.
+This led us to ponder: How can we simplify the process of discovering new places, making it more enjoyable and reducing the hesitation that often accompanies trying something different?
+(Slide 4)
+In response to our question, we created GoWhere, a web application that helps users in Singapore to explore new places around the country. 
+GoWhere uses APIs for functions including weather,map,and place review, filtering places to recommend based on selected user preferences.
 
 ## Group Members:
 1. Lee Seungju @evertone13
