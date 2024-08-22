@@ -8,6 +8,9 @@ This led us to ponder: How can we simplify the process of discovering new places
 In response to our question, we created GoWhere, a web application that helps users in Singapore to explore new places around the country. 
 GoWhere uses APIs for functions including weather,map,and place review, filtering places to recommend based on selected user preferences.
 
+***NOTE***
+Some licenses for the API may have been expired, so the app might not function as intended
+
 ## Group Members:
 1. Lee Seungju @evertone13
 2. Jerrell Lee @jerrell-y
