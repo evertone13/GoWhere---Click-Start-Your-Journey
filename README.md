@@ -4,7 +4,7 @@
 1. Lee Seungju @evertone13
 2. Jerrell Lee @jerrell-y
 3. Jesica Tjan @jesicatjan
-4. Lim Shaojun
+4. Lim Shaojun @shaojunL
 5. Keith Lim En Kai (Leader) @keithfykai
 
 ## Setup Instructions:
