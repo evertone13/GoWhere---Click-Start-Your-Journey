@@ -5,7 +5,7 @@
 2. Jerrell Lee @
 3. Jesica Tjan @jesicatjan
 4. Lim Shaojun
-5. Keith Lim En Kai (Leader)
+5. Keith Lim En Kai (Leader) @keithfykai
 
 ## Setup Instructions:
 1. Open terminal and run 'npm i'
