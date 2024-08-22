@@ -1,9 +1,9 @@
 # 2006-TCE1-CodeCrafters
 
 ## Group Members:
-1. Lee Seungju
-2. Jerrell Lee
-3. Jesica Tjan
+1. Lee Seungju @evertone13
+2. Jerrell Lee @
+3. Jesica Tjan @jesicatjan
 4. Lim Shaojun
 5. Keith Lim En Kai (Leader)
 
