@@ -1,6 +1,7 @@
 # 2006-TCE1-CodeCrafters
 ## Intro:
 We have found ourselves bombarded with countless online recommendations for places to visit, only to end up repeatedly choosing the same familiar spots or relying on suggestions from our family and friends.
+
 Although we often have specific categories of places in mind that we’d like to explore, our knowledge of new and exciting destinations is often limited.
 This led us to ponder: How can we simplify the process of discovering new places, making it more enjoyable and reducing the hesitation that often accompanies trying something different?
 
